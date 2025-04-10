@@ -1,0 +1,32 @@
+* {
+  background-color: aquamarine;
+  padding: 0;
+  margin: 0px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+a {
+  margin-right: 200px;
+  display: inline;
+}
+div {
+  background-color: black;
+}
+a{
+  background-color: darkblue;
+  border-radius: 5px;
+  padding: 2px;
+  
+}
+
+input,button {
+  background-color: white;
+}
+
+a :visited {
+  color: purple;
+}
+
+a :hover {
+  color: black;
+}
